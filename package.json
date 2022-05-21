@@ -1,7 +1,7 @@
 {
-  "name": "my-code-style",
+  "name": "@draymond37/code-style",
   "version": "1.0.0",
-  "description": "",
+  "description": "A collection of configuration files containing eslint, prettier, stylelint",
   "main": "lib/index.js",
   "files": [
     "lib"
